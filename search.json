@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Headshot"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nComputer Science: emphasis in Machine Learning, Minor in Statistics, Brigham Young University — Expected 2026"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\n\nIntern, Nolvey — Analyzed company sales data to identify purchasing trends and determine which products were reducing profit margins."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\n\nTechnical: Python, SQL, HTML, CSS\nTools: VS Code, Pandas, Matplotlib\nSoft: Communication, Problem-Solving, Adaptability"
+  },
+  {
+    "objectID": "about.html#get-to-know-me",
+    "href": "about.html#get-to-know-me",
+    "title": "About Me",
+    "section": "Get to Know Me",
+    "text": "Get to Know Me\nI enjoy snowboarding (even though I’m not great), crocheting, and cooking. I’m always up for trying a new recipe, planning a trip, or finding good music. I’m originally from Southern California — and fun fact: my dog’s name is Boog, after the bear from the movie Open Season."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "my-site",
+    "section": "",
+    "text": "Welcome!\nHey, I’m Lindsay! I’m a computer science student with a focus in machine learning and statistics. I built this site as a space to share what I’m learning — from coding projects and algorithm implementations to stats experiments and data analysis work.\nMost of what you’ll find here comes from hands-on class projects and personal experiments in Python, NumPy, and beyond. My goal is to make the concepts I’m exploring clear, practical, and maybe even helpful to anyone studying or working in the same space.\nAbout Me →"
+  }
+]
