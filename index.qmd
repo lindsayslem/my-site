@@ -1,0 +1,16 @@
+---
+title: "my-site"
+---
+
+---
+page-layout: article
+---
+
+# Welcome!
+
+Hey, I’m Lindsay! I’m a computer science student with a focus in machine learning and statistics. I built this site as a space to share what I’m learning — from coding projects and algorithm implementations to stats experiments and data analysis work.
+
+Most of what you’ll find here comes from hands-on class projects and personal experiments in Python, NumPy, and beyond. My goal is to make the concepts I’m exploring clear, practical, and maybe even helpful to anyone studying or working in the same space.
+
+
+[About Me →](about.qmd)

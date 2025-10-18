@@ -1,0 +1,24 @@
+---
+title: "About"
+---
+
+---
+title: "About Me"
+---
+
+![Headshot](IMG_0451.jpg){width=160px}
+
+## Education
+- **Computer Science: emphasis in Machine Learning, Minor in Statistics**, **Brigham Young University** — **Expected 2026**
+
+## Experience
+- **Intern**, **Nolvey** — Analyzed company sales data to identify purchasing trends and determine which products were reducing profit margins.
+
+## Skills
+- **Technical:** Python, SQL, HTML, CSS
+- **Tools:** VS Code, Pandas, Matplotlib
+- **Soft:** Communication, Problem-Solving, Adaptability
+
+## Get to Know Me
+I enjoy snowboarding (even though I’m not great), crocheting, and cooking. I’m always up for trying a new recipe, planning a trip, or finding good music. I’m originally from Southern California — and fun fact: my dog’s name is Boog, after the bear from the movie Open Season.
+
